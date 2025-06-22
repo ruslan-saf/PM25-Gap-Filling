@@ -9,7 +9,7 @@
 - `06_air_quality_assessment.ipynb` - Final air quality analysis
 
 ## Data Files
-- `air_quality_data.sqlite` - Raw PM2.5 measurements
+- `air_quality_data.sqlite` - Raw PM2.5 measurements can be accessed from https://doi.org/10.5281/zenodo.15305393
 - `weather_archive_utf8.csv` - Meteorological data
 - `df_data_prepared.csv` - Preprocessed dataset
 
